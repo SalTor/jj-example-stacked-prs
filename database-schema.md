@@ -1,3 +1,3 @@
 # Columns
 
-- user_id UUID
+- user_id ascending integer ID
